@@ -17,6 +17,7 @@ const Sidebar = () => {
                         size={30}
                     />
                 </a>
+
             </nav>
 
         </div>
