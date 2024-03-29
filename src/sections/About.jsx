@@ -10,14 +10,14 @@ const About = () => {
                 I  am constantly refining my abilities while seeking opportunities for growth in this domain.
             </p>
             <p className="px-4 md:px-10 lg:px-24 font-semibold text-md">
-                Currently, I am actively seeking opportunities that encompass front-end development. If you're interested, I'd be thrilled to connect and discuss potential collaborations.
+                Currently, I am actively seeking opportunities in front-end development. If you're interested, I'd be thrilled to connect and discuss potential collaborations.
                 I am currently working on several projects that emphasize specific tech stacks and frameworks, allowing me to further enhance my expertise.
             </p>
             <p className="px-4 md:px-10 lg:px-24 font-semibold text-md">
-                In my personal life, I enjoy collecting various figures, spending time watching Tv shows, and working out.
+                In my personal life, I enjoy spending time with my family, watching Tv shows, and  eating out.
             </p>
             <p className="px-4 md:px-10 lg:px-24 font-semibold text-md">
-                Feel free to <a href="#contact"><span className="text-[#ff004f]">reach out</span></a> if you would like to explore the potential of working together!
+                Feel free to <a href="#contact"><span className="text-[#ff004f]">Reach out</span></a> if you would like to explore the potential of working together!
             </p>
             <h1 className="px-2 text-2xl font-bold mt-5">Languages<span className="text-[#ff004f]"> / </span>Frameworks</h1>
             <ul className="flex flex-wrap gap-3 mx-4">
