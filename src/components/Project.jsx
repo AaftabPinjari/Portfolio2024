@@ -4,7 +4,7 @@ function Project({ project }) {
         <div className="bg-[#232323]  gap-3 rounded-lg flex flex-col items-center justify-between  p-2">
             <img className="h-[250px] w-[450px] hover:scale-95 hover:transition-transform  rounded-lg" alt={project.alt} src={project.src} />
             <h1 className="text-xl font-bold">{project.title}</h1>
-            <div className="text-sm flex flex-wrap gap-3  text-[#ff004f]">
+            <div className="text-xs text-center flex flex-wrap gap-3  text-[#ff004f]">
                 {project.tech.map((ele, idx) => (
                     <h3 key={idx}>{ele}</h3>
                 ))}

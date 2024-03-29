@@ -18,7 +18,7 @@ const About = () => {
             <p className="px-4 md:px-10 lg:px-24 font-semibold text-md">
                 Feel free to <a href="#contact"><span className="text-[#ff004f]">reach out</span></a> if you would like to explore the potential of working together!
             </p>
-            <h1 className="px-2 text-3xl font-bold mt-5">Languages<span className="text-[#ff004f]"> / </span>Frameworks</h1>
+            <h1 className="px-2 text-2xl font-bold mt-5">Languages<span className="text-[#ff004f]"> / </span>Frameworks</h1>
             <ul className="flex flex-wrap gap-3 mx-4">
                 <li className="px-2 py-1 bg-[#232323] rounded-lg font-semibold">HTML</li>
                 <li className="px-2 py-1 bg-[#232323] rounded-lg font-semibold">CSS</li>
