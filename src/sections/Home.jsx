@@ -3,7 +3,7 @@ const Home = () => {
     return (
         <div
             id="home"
-            className='px-10 lg:px-24 gap-4 text-center flex flex-col items-center  justify-center min-h-screen'>
+            className='px-4 md:px-10 lg:px-24 gap-4 text-center flex flex-col items-center  justify-center min-h-screen'>
             <h1 className="font-bold text-3xl font-serif">Hey, I'm Aaftab</h1>
             <h2 className="text-xl font-bold text-[#ff004f]">I am a ReactJs Developer.</h2>
             <p className="text-lg font-semibold">
